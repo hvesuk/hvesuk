@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am a software engineer with over 4 years of experience. My main expertise is in Unity development. Lately, I've been primarily focusing on AR and Web3<br><br>By organizing my own startups, I have gained experience in marketing, team management, and strategic planning<br><br>I love to work on challenging tasks and cutting-edge technologies because only with them I feel my own progress<br><br>Check my <a href="https://www.linkedin.com/in/lex-h/">LinkedIn</a> or <a href="https://www.upwork.com/freelancers/~01fd30d2423c7f55f6">Upwork</a> for more information</p>
+<p align="left">I am a software engineer with over 4 years of experience. My main expertise is Unity development. Lately, I've been primarily focusing on AR and Web3<br><br>By organizing my own startups, I have gained experience in marketing, team management, and strategic planning<br><br>I love to work on challenging tasks and cutting-edge technologies because only with them I feel my own progress<br><br>Check my <a href="https://www.linkedin.com/in/lex-h/">LinkedIn</a> or <a href="https://www.upwork.com/freelancers/~01fd30d2423c7f55f6">Upwork</a> for more information</p>
 
 ###
 
